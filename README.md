@@ -4,6 +4,7 @@ My name is Lucas Fabre! I'm a Software Engineer 👨‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucas-pullig-fabre-a7b00915b/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=white)](https://www.codewars.com/users/LFabre)
+[![CodinGame](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2FLFabre%2FLFabre%2Fmain%2FcustomBadge%2FBadgeCodingGame.json)](https://www.codingame.com/profile/51d7ac056e99bbdc7d086f8edffee8c44847094)
 
 ## Technologies
 
