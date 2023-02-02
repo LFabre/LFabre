@@ -17,8 +17,8 @@ My name is Lucas Fabre! I'm a Software Engineer 👨‍💻
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&color=343434)
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white&color=343434)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&color=343434)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&color=343434)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=orange&color=343434)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&&logoColor=blue&color=343434)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white&color=343434)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&color=343434)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&color=343434)
