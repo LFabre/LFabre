@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Lucas Fabre! I'm a Software Engineer 👨‍💻
 
@@ -27,8 +27,10 @@ My name is Lucas Fabre! I'm a Software Engineer 👨‍💻
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&color=343434)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-blue?style=flat-square&logo=bitbucket&logoColor=blue&color=343434)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lfabre&count_private=true&show_icons=true&include_all_commits=true)
+## Stats
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lfabre&layout=compact&langs_count=6)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lfabre&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lfabre&layout=compact&langs_count=6&theme=dark)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lfabre.lfabre)
