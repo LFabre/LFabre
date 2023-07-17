@@ -29,7 +29,7 @@ My name is Lucas Fabre! I'm a Software Engineer 👨‍💻
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lfabre&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lfabre&count_private=true&show_icons=true&theme=dark)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lfabre&layout=compact&langs_count=6&theme=dark)
 
